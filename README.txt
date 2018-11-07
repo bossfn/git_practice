@@ -1,1 +1,1 @@
-Hello Git adn Github
+Hello Git and Github!
